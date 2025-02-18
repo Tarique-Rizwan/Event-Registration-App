@@ -1,4 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project was created using Next.js and Tailwind CSS.
+
+## Screenshots
+
+- **Create Event Page**
+
+![1](https://github.com/user-attachments/assets/cedd8c9f-8409-40df-8f74-9909fa876c8f)
+
 
 ## Getting Started
 
